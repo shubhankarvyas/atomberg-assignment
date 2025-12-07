@@ -16,7 +16,6 @@ This repository contains an AI agent designed to quantify the Share of Voice (So
 
 ### Tools Used
 *   **VS Code**: IDE for development.
-*   **GitHub Copilot**: AI Pair Programmer for code generation and debugging.
 *   **Apify**: Cloud scraping platform for Google Search results.
 
 ### Supplementary Content
